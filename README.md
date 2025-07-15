@@ -1,4 +1,4 @@
-# 👨‍🚀 Jatin Chaudhary | Scientist | AI Researcher | Builder of Trustworthy Systems
+# 👨‍🚀 Jatin Chaudhary | AI Scientist | Builder of Trustworthy Systems
 
 Hello Visitor 👋,
 
