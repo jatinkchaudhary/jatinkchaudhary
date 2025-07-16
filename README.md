@@ -6,7 +6,7 @@ I’m Jatin, a Scientist from the University of Turku, Finland 🇫🇮
 
 I build AI systems that don’t just *work*, but *work ethically, explainably, and reliably* in high-stakes environments like **healthcare**, **space biology**, and **finance**.
 
-Whether it’s segmenting tumors, fine-tuning models for new domains, or designing autonomous agents that follow rules *because they don't want to*, I’m all about **making AI real, robust, and responsible**.
+Whether it’s segmenting tumors, fine-tuning models for new domains, or designing autonomous agents that follow rules *because they dont want to*, I’m all about **making AI real, robust, and responsible**.
 
 ---
 
