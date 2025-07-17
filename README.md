@@ -17,7 +17,7 @@ Whether it’s segmenting tumors, fine-tuning models for new domains, or designi
 - 💹 **Algorithmic Trading**: Built agents with **governance-aware trading logic**  
 - 🛰️ **Biomedical AI**: MRI-based cancer detection with explainability and generalization  
 - 🛡️ **AI Governance**: Lead architect of **GUARDIAN** framework for safe AI agents  
-- 🧰 **Tools I Speak Fluently**: `PyTorch`, `MONAI`, `SQL`, `TensorFlow`, `n8n`, and GenAI tools for building **agentic solutions**
+- 🧰 **Tools I Speak Fluently**: `PyTorch`, `MONAI`, `ITK-SNAP`, `TensorFlow`, `n8n`, and GenAI tools for building **agentic solutions**
 
 ---
 
