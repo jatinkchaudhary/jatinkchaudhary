@@ -19,7 +19,7 @@ Whether it’s segmenting tumors, fine-tuning models for new domains, or designi
 - 🛡️ **AI Governance**: Lead architect of **GUARDIAN** framework for safe AI agents  
 - 🧰 **Tools I Speak Fluently**: `PyTorch`, `MONAI`, `ITK-SNAP`, `TensorFlow`, `n8n`, and GenAI tools for building **agentic solutions**
 
----
+----
 
 ## 🚀 Projects That Define Me
 
