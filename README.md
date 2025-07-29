@@ -8,7 +8,7 @@ I build AI systems that don’t just *work*, but *work ethically, explainably, a
 
 Whether it’s segmenting tumors, fine-tuning models for new domains, or designing autonomous agents that follow rules *because they dont want to*, I’m all about **making AI real, robust, and responsible**.
 
----
+----
 
 ## 🛠️ What I Do Best
 
