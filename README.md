@@ -1,6 +1,6 @@
 # 👨‍🚀 Jatin Chaudhary | AI Scientist | Builder of Trustworthy Systems
 
-Hello Visitor 👋,
+Hello Visitor 👋, 
 
 I’m Jatin, a Scientist from the University of Turku, Finland 🇫🇮  
 
